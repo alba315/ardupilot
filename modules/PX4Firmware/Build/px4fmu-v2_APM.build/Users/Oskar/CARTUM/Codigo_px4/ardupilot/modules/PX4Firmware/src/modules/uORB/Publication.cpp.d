@@ -1,0 +1,29 @@
+Publication.cpp.o: \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/Publication.cpp \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/include/visibility.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/Publication.hpp \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/nuttx-export/include/assert.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/nuttx-export/include/nuttx/compiler.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/nuttx-export/include/stdint.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/nuttx-export/include/nuttx/config.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/nuttx-export/include/arch/types.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/nuttx-export/include/limits.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/nuttx-export/include/arch/limits.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src//modules/uORB/uORB.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/nuttx-export/include/sys/types.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/Build/px4fmu-v2_APM.build/nuttx-export/include/stdbool.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src//modules/systemlib/visibility.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/include/containers/List.hpp \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/vehicle_attitude.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/vehicle_local_position.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/vehicle_global_position.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/debug_key_value.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/actuator_controls.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/vehicle_global_velocity_setpoint.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/vehicle_attitude_setpoint.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/vehicle_rates_setpoint.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/actuator_outputs.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/actuator_direct.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/encoders.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/tecs_status.h \
+ /Users/Oskar/CARTUM/Codigo_px4/ardupilot/modules/PX4Firmware/src/modules/uORB/topics/rc_channels.h
